@@ -19,6 +19,7 @@ public class Test{
 //		System.out.println(p1);
 		
 		Point2D p = new Point3D(0, 0, 1);
+		Point2D p6 = new Point3D(0, 0, 2);
 		
 //		Point3D p2 = new Point2D(1, 1); -> No se puede convertir el hijo al padre
 		
